@@ -16,6 +16,10 @@
 	border-radius: 5px;	
 }
 
+.checkbox-deactivated {
+	background-color: lightblue !important;
+}
+
 .search {
 	margin-bottom:20px;
 
